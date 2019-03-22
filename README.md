@@ -33,7 +33,6 @@
 - Start the process of completing this challenge by first determining the address of the box you are presently attacking. This can be done on TryHackMe by deploying the machine and allowing a few minutes it to fully launch.
 
   - ![alt text](https://i.imgur.com/iwDefdk.jpg)
-  - ![alt text]()
 
 - Once the machine is deployed, let's go ahead and scan it with nmap
 
